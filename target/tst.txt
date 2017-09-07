@@ -1,0 +1,3 @@
+add -90
+multiply 10
+apply 3

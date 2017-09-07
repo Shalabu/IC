@@ -1,0 +1,2 @@
+divide 7
+apply 12

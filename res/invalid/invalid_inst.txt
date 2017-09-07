@@ -1,0 +1,3 @@
+add 3
+sq 4
+apply 5

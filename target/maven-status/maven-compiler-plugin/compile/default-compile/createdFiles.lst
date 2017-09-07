@@ -1,0 +1,7 @@
+assesment\exceptions\MalformedEndingException.class
+assesment\calculator\Calculator.class
+assesment\calculator\App.class
+assesment\reader\InstructionsReader.class
+assesment\calculator\InstructionsCalculator.class
+assesment\exceptions\MalformedInstructionException.class
+assesment\reader\InstructionsFileRead.class

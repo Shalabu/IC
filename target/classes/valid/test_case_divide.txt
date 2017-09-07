@@ -1,0 +1,4 @@
+divide 9
+add 3
+multiply 6
+apply 5
